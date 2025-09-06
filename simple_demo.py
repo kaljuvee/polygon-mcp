@@ -11,7 +11,7 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="Stock Market Analysis Demo",
+    page_title="Polygon.io AI Chat Demo",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -39,8 +39,8 @@ class PolygonAPI:
             return {"error": str(e)}
     
     def get_latest_quote(self, ticker: str) -> Dict[str, Any]:
-        """Get latest quote for a ticker"""
-        url = f"{self.base_url}/v2/last/trade/{ticker}"
+        """Get latest quote for a ticker using previous close endpoint"""
+        url = f"{self.base_url}/v2/aggs/ticker/{ticker}/prev"
         params = {"apikey": self.api_key}
         try:
             response = requests.get(url, params=params)
@@ -115,17 +115,19 @@ def analyze_query(query: str, polygon_api: PolygonAPI) -> str:
     elif details.get('error'):
         response += f"⚠️ Could not fetch ticker details: {details['error']}\n\n"
     
-    # Get latest quote
+    # Get latest quote (using previous close)
     quote = polygon_api.get_latest_quote(ticker)
-    if quote.get('results'):
-        result = quote['results']
-        price = result.get('p', 'N/A')
-        size = result.get('s', 'N/A')
-        timestamp = result.get('t', 'N/A')
-        response += f"**Latest Trade:**\n"
-        response += f"- Price: ${price}\n"
-        response += f"- Size: {size} shares\n"
-        response += f"- Timestamp: {timestamp}\n\n"
+    if quote.get('results') and len(quote['results']) > 0:
+        result = quote['results'][0]  # Previous close data
+        close_price = result.get('c', 'N/A')
+        high_price = result.get('h', 'N/A')
+        low_price = result.get('l', 'N/A')
+        volume = result.get('v', 'N/A')
+        response += f"**Previous Close:**\n"
+        response += f"- Close Price: ${close_price}\n"
+        response += f"- High: ${high_price}\n"
+        response += f"- Low: ${low_price}\n"
+        response += f"- Volume: {volume:,} shares\n\n"
     elif quote.get('error'):
         response += f"⚠️ Could not fetch latest quote: {quote['error']}\n\n"
     
@@ -165,9 +167,9 @@ def save_analysis_report(content: str, ticker: str) -> str:
 def initialize_polygon_api():
     return PolygonAPI(os.getenv("POLYGON_API_KEY"))
 
-# Main app
+# Main function
 def main():
-    st.title("📈 Stock Market Analysis Demo")
+    st.title("📈 Polygon.io AI Chat Demo")
     st.markdown("*Simplified demo using Polygon.io data*")
     
     # Sidebar
@@ -175,18 +177,11 @@ def main():
         st.header("About")
         st.markdown("""
         This is a simplified demo that showcases:
+        
         - Real-time stock data via Polygon.io
         - Ticker information and latest quotes
         - Recent news for stocks
         - Report generation
-        """)
-        
-        st.header("Example Queries")
-        st.markdown("""
-        - "Get the latest price of Microsoft"
-        - "Show me AAPL information"
-        - "What's the latest on TSLA?"
-        - "NVDA stock details"
         """)
         
         if st.button("Clear Chat History"):
@@ -196,10 +191,66 @@ def main():
     # Initialize API
     polygon_api = initialize_polygon_api()
     
+    # Example queries as buttons in main area (only show if no messages)
+    if not st.session_state.messages:
+        st.markdown("### 💡 Try these example queries:")
+        
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("📊 Get the latest price of Microsoft", use_container_width=True):
+                st.session_state.example_query = "Get the latest price of Microsoft"
+                st.rerun()
+            if st.button("🍎 Show me AAPL information", use_container_width=True):
+                st.session_state.example_query = "Show me AAPL information"
+                st.rerun()
+        
+        with col2:
+            if st.button("🚗 What's the latest on TSLA?", use_container_width=True):
+                st.session_state.example_query = "What's the latest on TSLA?"
+                st.rerun()
+            if st.button("💻 NVDA stock details", use_container_width=True):
+                st.session_state.example_query = "NVDA stock details"
+                st.rerun()
+        
+        st.markdown("---")
+    
     # Display chat messages
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
+    
+    # Handle example query if set
+    if hasattr(st.session_state, 'example_query') and st.session_state.example_query:
+        prompt = st.session_state.example_query
+        st.session_state.example_query = None  # Clear it
+        
+        # Add user message to chat history
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+        
+        # Generate response
+        with st.chat_message("assistant"):
+            with st.spinner("Fetching data..."):
+                try:
+                    response = analyze_query(prompt, polygon_api)
+                    st.markdown(response)
+                    
+                    # Add assistant response to chat history
+                    st.session_state.messages.append({"role": "assistant", "content": response})
+                    
+                    # Offer to save report
+                    ticker = extract_ticker(prompt)
+                    if ticker and st.button(f"💾 Save {ticker} Report"):
+                        filepath = save_analysis_report(response, ticker)
+                        st.success(f"Report saved to: {filepath}")
+                
+                except Exception as e:
+                    error_msg = f"❌ Error: {str(e)}"
+                    st.error(error_msg)
+                    st.session_state.messages.append({"role": "assistant", "content": error_msg})
+        
+        st.rerun()
     
     # Chat input
     if prompt := st.chat_input("Ask me about stocks (e.g., 'AAPL price', 'Microsoft info')..."):

@@ -1,4 +1,4 @@
-# Polygon MCP Demo
+# Polygon.io AI Chat
 
 A Streamlit demo application that replicates the functionality from the Polygon.io blog post: **"Creating stock market reports using OpenAI's GPT-5 and Agent SDK with the Polygon.io MCP server in under 200 lines of code"**.
 
@@ -15,8 +15,8 @@ A Streamlit demo application that replicates the functionality from the Polygon.
 
 ```
 polygon-mcp/
-├── Home.py                 # Main Streamlit app (full OpenAI integration)
-├── simple_demo.py          # Simplified demo (Polygon.io only)
+├── Home.py                 # Main Polygon.io AI Chat app (full OpenAI integration)
+├── simple_demo.py          # Simplified Polygon.io AI Chat demo (Polygon.io only)
 ├── requirements.txt        # Python dependencies
 ├── .env                   # Environment variables (API keys)
 ├── tests/                 # Test scripts
@@ -47,10 +47,10 @@ polygon-mcp/
 
 3. **Run the Application**:
    ```bash
-   # Full demo (requires working OpenAI API)
+   # Main Polygon.io AI Chat app
    streamlit run Home.py
    
-   # Simplified demo (Polygon.io only)
+   # Simplified Polygon.io AI Chat demo (Polygon.io only)
    streamlit run simple_demo.py
    ```
 
