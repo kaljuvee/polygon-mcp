@@ -1,0 +1,32 @@
+{
+  "query_1": {
+    "query": "Get the latest price of Microsoft",
+    "ticker": "MSFT",
+    "result": "## Analysis for MSFT\n\n**Company:** Microsoft Corp\n**Market:** stocks\n**Type:** CS\n**Currency:** usd\n\n\u26a0\ufe0f Could not fetch latest quote: HTTP 403\n\n**Recent News:**\n- [The S&P 500 Is Roaring by Record Highs. History Says the Stock Market Will Do This Next.](https://www.fool.com/investing/2025/09/06/sp-500-record-highs-stock-market-will-do-this-next/?source=iedfolrf0000001) - 2025-09-06T08:02:00Z\n- [Think It's Too Late to Buy Nvidia? Here's the 1 Reason Why There's Still Time.](https://www.fool.com/investing/2025/09/06/think-its-too-late-to-buy-ticker-heres-the-1-reaso/?source=iedfolrf0000001) - 2025-09-06T08:01:00Z\n- [Apple Faces Class-Action Lawsuit Over Reported Use Of Copyrighted Books To Train AI](https://www.benzinga.com/news/legal/25/09/47536273/apple-faces-class-action-lawsuit-over-reported-use-of-copyrighted-books-to-train-ai) - 2025-09-06T07:01:36Z\n\n---\n*Not financial advice. For informational purposes only.*",
+    "success": true
+  },
+  "query_2": {
+    "query": "Show me AAPL information",
+    "ticker": "SHOW",
+    "result": "## Analysis for SHOW\n\n\u26a0\ufe0f Could not fetch ticker details: HTTP 404\n\n\u26a0\ufe0f Could not fetch latest quote: HTTP 403\n\n---\n*Not financial advice. For informational purposes only.*",
+    "success": true
+  },
+  "query_3": {
+    "query": "What's the latest on TSLA?",
+    "ticker": "WHAT",
+    "result": "## Analysis for WHAT\n\n\u26a0\ufe0f Could not fetch ticker details: HTTP 404\n\n\u26a0\ufe0f Could not fetch latest quote: HTTP 403\n\n---\n*Not financial advice. For informational purposes only.*",
+    "success": true
+  },
+  "query_4": {
+    "query": "NVDA stock details",
+    "ticker": "NVDA",
+    "result": "## Analysis for NVDA\n\n**Company:** Nvidia Corp\n**Market:** stocks\n**Type:** CS\n**Currency:** usd\n\n\u26a0\ufe0f Could not fetch latest quote: HTTP 403\n\n**Recent News:**\n- [Prediction: This Will Be Nvidia's Stock Price 3 Years From Now](https://www.fool.com/investing/2025/09/06/prediction-this-will-be-nvidias-stock-price-3-year/?source=iedfolrf0000001) - 2025-09-06T08:30:00Z\n- [1 Unstoppable Cryptocurrency to Buy Before It Soars 18,800%, According to MicroStrategy's Michael Saylor](https://www.fool.com/investing/2025/09/06/1-cryptocurrency-buy-soars-18800-michael-saylor/?source=iedfolrf0000001) - 2025-09-06T08:23:00Z\n- [The S&P 500 Is Roaring by Record Highs. History Says the Stock Market Will Do This Next.](https://www.fool.com/investing/2025/09/06/sp-500-record-highs-stock-market-will-do-this-next/?source=iedfolrf0000001) - 2025-09-06T08:02:00Z\n\n---\n*Not financial advice. For informational purposes only.*",
+    "success": true
+  },
+  "query_5": {
+    "query": "META news",
+    "ticker": "META",
+    "result": "## Analysis for META\n\n**Company:** Meta Platforms, Inc. Class A Common Stock\n**Market:** stocks\n**Type:** CS\n**Currency:** usd\n\n\u26a0\ufe0f Could not fetch latest quote: HTTP 403\n\n**Recent News:**\n- [Think It's Too Late to Buy Nvidia? Here's the 1 Reason Why There's Still Time.](https://www.fool.com/investing/2025/09/06/think-its-too-late-to-buy-ticker-heres-the-1-reaso/?source=iedfolrf0000001) - 2025-09-06T08:01:00Z\n- [Apple Faces Class-Action Lawsuit Over Reported Use Of Copyrighted Books To Train AI](https://www.benzinga.com/news/legal/25/09/47536273/apple-faces-class-action-lawsuit-over-reported-use-of-copyrighted-books-to-train-ai) - 2025-09-06T07:01:36Z\n- [Meta Platforms Keeps On Upping the AI Ante. Here's What Investors Should Know.](https://www.fool.com/investing/2025/09/05/meta-platforms-keeps-on-upping-the-ai-ante/?source=iedfolrf0000001) - 2025-09-05T19:26:57Z\n\n---\n*Not financial advice. For informational purposes only.*",
+    "success": true
+  }
+}

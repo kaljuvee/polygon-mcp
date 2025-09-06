@@ -1,0 +1,39 @@
+{
+  "request_id": "13e0ce5168a859cd0a3f1bce60d983db",
+  "results": {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNAS",
+    "type": "CS",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0000789019",
+    "composite_figi": "BBG000BPH459",
+    "share_class_figi": "BBG001S5TD05",
+    "market_cap": 3679417357605.0,
+    "phone_number": "425-882-8080",
+    "address": {
+      "address1": "ONE MICROSOFT WAY",
+      "city": "REDMOND",
+      "state": "WA",
+      "postal_code": "98052-6399"
+    },
+    "description": "Microsoft develops and licenses consumer and enterprise software. It is known for its Windows operating systems and Office productivity suite. The company is organized into three equally sized broad segments: productivity and business processes (legacy Microsoft Office, cloud-based Office 365, Exchange, SharePoint, Skype, LinkedIn, Dynamics), intelligence cloud (infrastructure- and platform-as-a-service offerings Azure, Windows Server OS, SQL Server), and more personal computing (Windows Client, Xbox, Bing search, display advertising, and Surface laptops, tablets, and desktops).",
+    "sic_code": "7372",
+    "sic_description": "SERVICES-PREPACKAGED SOFTWARE",
+    "ticker_root": "MSFT",
+    "homepage_url": "https://www.microsoft.com",
+    "total_employees": 228000,
+    "list_date": "1986-03-13",
+    "branding": {
+      "logo_url": "https://api.polygon.io/v1/reference/company-branding/bWljcm9zb2Z0LmNvbQ/images/2025-04-04_logo.svg",
+      "icon_url": "https://api.polygon.io/v1/reference/company-branding/bWljcm9zb2Z0LmNvbQ/images/2025-04-04_icon.jpeg"
+    },
+    "share_class_shares_outstanding": 7433166379,
+    "weighted_shares_outstanding": 7433166379,
+    "round_lot": 100
+  },
+  "status": "OK"
+}

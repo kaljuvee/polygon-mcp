@@ -1,0 +1,7 @@
+streamlit==1.49.1
+openai==1.106.1
+python-dotenv==1.1.1
+pydantic==2.10.3
+rich==14.1.0
+requests==2.32.3
+

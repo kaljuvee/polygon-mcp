@@ -1,0 +1,553 @@
+{
+  "results": [
+    {
+      "id": "059e15f01d85e4edb51f9e56741e20879e941f492efb2b3a64675b4246390078",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Think It's Too Late to Buy Nvidia? Here's the 1 Reason Why There's Still Time.",
+      "author": "Stefon Walters",
+      "published_utc": "2025-09-06T08:01:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/think-its-too-late-to-buy-ticker-heres-the-1-reaso/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831071/gettyimages-1319077248.jpg",
+      "description": "Despite Nvidia's massive 1,000% stock surge in 2023, analysts believe the company remains a strong investment due to anticipated massive AI infrastructure spending by major tech companies over the next five years.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "GPU",
+        "infrastructure",
+        "technology investment"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Expected to benefit from $3-4 trillion AI infrastructure opportunity, leading GPU provider for data centers with strong long-term growth prospects"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        }
+      ]
+    },
+    {
+      "id": "16d7d1dd2d0bd8bcab6965216575b2a2c29d92879077b10cc61e1fc6e013d633",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Apple Faces Class-Action Lawsuit Over Reported Use Of Copyrighted Books To Train AI",
+      "author": "Mohd Haider",
+      "published_utc": "2025-09-06T07:01:36Z",
+      "article_url": "https://www.benzinga.com/news/legal/25/09/47536273/apple-faces-class-action-lawsuit-over-reported-use-of-copyrighted-books-to-train-ai",
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "META"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/06/Pune--India---February-19--2024--Apple-i.jpeg?width=1200&height=800&fit=crop",
+      "description": "Apple is facing a class-action lawsuit by authors Grady Hendrix and Jennifer Roberson, alleging unauthorized use of copyrighted books to train its OpenELM AI language models without permission, credit, or compensation.",
+      "keywords": [
+        "AI",
+        "copyright",
+        "lawsuit",
+        "training data",
+        "intellectual property"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Facing legal challenge over alleged unauthorized use of copyrighted materials in AI training, which could result in potential financial and reputational damages"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of broader AI copyright legal landscape, recently settled similar claims with Anthropic"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Facing similar AI copyright challenges, indicating an industry-wide legal trend"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recently won summary judgment in AI training copyright case, with court ruling fair use"
+        }
+      ]
+    },
+    {
+      "id": "87dcb6fd887057fb2d4fa5506124ce80279a886f416396756f00fa70e48e1a2a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meta Platforms Keeps On Upping the AI Ante. Here's What Investors Should Know.",
+      "author": "Thomas Niel",
+      "published_utc": "2025-09-05T19:26:57Z",
+      "article_url": "https://www.fool.com/investing/2025/09/05/meta-platforms-keeps-on-upping-the-ai-ante/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831725/gettyimages-1287582736.jpg",
+      "description": "Meta Platforms is aggressively investing in AI technology, hiring top talent, and building massive data centers, despite concerns about an AI market bubble. The company aims to automate advertising and potentially generate significant revenue from AI software by the 2030s.",
+      "keywords": [
+        "AI",
+        "artificial intelligence",
+        "Meta Platforms",
+        "technology investment",
+        "data centers"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Continuing heavy AI investments, hiring top talent, expanding infrastructure, and exploring potential AI revenue streams beyond advertising"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as potentially lagging in AI, with an executive leaving to join Meta's robotics team"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Referenced as another tech giant investing heavily in AI with a higher earnings multiple"
+        }
+      ]
+    },
+    {
+      "id": "8325a12321f086a5d8d4b1039d48f7217804adf7216435092b7eeaf3fc17af3d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Pixalate Research Finds 253 EU & UK-Registered Mobile Apps Likely Violating GDPR-K & UK Children's Code: Apple App Store & Google Play Store Apps Endangering Privacy Rights of 104M+ Children Across Europe",
+      "author": "Yusra Kayani",
+      "published_utc": "2025-09-05T17:41:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/09/05/3145437/0/en/Pixalate-Research-Finds-253-EU-UK-Registered-Mobile-Apps-Likely-Violating-GDPR-K-UK-Children-s-Code-Apple-App-Store-Google-Play-Store-Apps-Endangering-Privacy-Rights-of-104M-Childr.html",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AAPL",
+        "META"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0124c010-09d5-402d-839d-4ca1ac736a66",
+      "description": "Pixalate's research reveals 253 mobile apps in the EU and UK are likely non-compliant with data privacy regulations, potentially exposing over 104 million children's personal data through unauthorized data transmissions in advertising bid streams.",
+      "keywords": [
+        "GDPR",
+        "privacy",
+        "mobile apps",
+        "children's data",
+        "data protection"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Google Ad Exchange appears to partner with 96% of non-compliant apps, suggesting potential involvement in privacy violations"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Google Ad Exchange appears to partner with 96% of non-compliant apps, suggesting potential involvement in privacy violations"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple App Store hosts apps that are likely violating children's privacy regulations"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Meta appears to partner with 80% of the non-compliant apps, indicating potential involvement in privacy breaches"
+        }
+      ]
+    },
+    {
+      "id": "c563a4deb910be08d5cfa4d9a9fbed3d15b8223ee4c3e7c9d4bba8a5a60908c5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Think Nvidia Stock Is Too Expensive? Here Are 60 Billion Reasons to Consider Changing Your Mind",
+      "author": "Adam Spatacco",
+      "published_utc": "2025-09-05T16:31:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/05/think-nvidia-stock-is-too-expensive-60-billion-rea/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831812/gettyimages-1158906702-4.jpg",
+      "description": "Nvidia has experienced massive growth in the AI sector, with its stock rising tenfold since ChatGPT's launch. The company's $60 billion stock buyback program signals confidence in its future and continued AI infrastructure potential.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "stock buyback",
+        "semiconductor",
+        "artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Stock has risen tenfold, market value increased from $345B to $4T, strong AI infrastructure demand, strategic $60B stock buyback program, and promising future in advanced computing applications"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as investing heavily in AI infrastructure and supporting Nvidia's growth"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Investing in AI infrastructure and supporting tech ecosystem"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Investing in AI infrastructure and supporting tech ecosystem"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Investing in AI infrastructure and supporting tech ecosystem"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Investing in AI infrastructure and supporting tech ecosystem"
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Investing in AI infrastructure and supporting tech ecosystem"
+        }
+      ]
+    },
+    {
+      "id": "54354b9bc08ce3b8c816b24f38640f91fc6905b1baf27eaf6add8beac7fcf297",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Microsoft: AI Push Beyond OpenAI Could Drive Next Breakout",
+      "author": "Chris Markoch",
+      "published_utc": "2025-09-05T13:26:00Z",
+      "article_url": "https://www.investing.com/analysis/microsoft-ai-push-beyond-openai-could-drive-next-breakout-200666461",
+      "tickers": [
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "META"
+      ],
+      "amp_url": "https://m.investing.com/analysis/microsoft-ai-push-beyond-openai-could-drive-next-breakout-200666461?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Microsoft is developing its own AI models (MAI-Voice-1 and MAI-1-preview) to reduce dependency on OpenAI, potentially strengthening its AI and cloud computing capabilities across Azure and Copilot services.",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "OpenAI",
+        "Azure",
+        "Copilot",
+        "Large Language Models"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Developing proprietary AI models to reduce external dependency, potentially improving innovation control, service differentiation, and long-term strategic positioning in AI technology"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive entity in AI model scaling"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive entity in AI model scaling"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive entity in AI model scaling"
+        }
+      ]
+    },
+    {
+      "id": "8e998acbef349f9c2a74bb1998bbeac78c067cd7c2a2984d7bc41bef750b5948",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Nuclear Expansion Faces Uranium Crunch By 2030",
+      "author": "Stjepan Kalinic",
+      "published_utc": "2025-09-05T09:28:34Z",
+      "article_url": "https://www.benzinga.com/markets/commodities/25/09/47516877/nuclear-expansion-faces-uranium-crunch-by-2030",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "META",
+        "NLR"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/05/Periodic-Table-Concept-With-Black-Cubes-_0.jpeg?width=1200&height=800&fit=crop",
+      "description": "Global nuclear energy leaders predict a significant uranium supply shortage by 2030, with demand expected to rise from 65,000 to 150,000 tons by 2040, driven by increasing data center and AI infrastructure power needs.",
+      "keywords": [
+        "nuclear energy",
+        "uranium",
+        "data centers",
+        "AI infrastructure",
+        "energy supply"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Part of tech companies driving nuclear reactor projects and increasing power demand"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Part of tech companies driving nuclear reactor projects and increasing power demand"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Contracting directly with nuclear operators to extend reactor life"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Involved in tech sector's increasing power infrastructure needs"
+        },
+        {
+          "ticker": "NLR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned to benefit from projected uranium demand growth and nuclear energy expansion"
+        }
+      ]
+    },
+    {
+      "id": "f27b79998721fed49c9632fc410742000582c130c643b984dd8faef1af3ed912",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Broadcom Q3 Earnings Preview: Can Results Justify the 100% Rally Since April?",
+      "author": "Ali Merchant",
+      "published_utc": "2025-09-04T15:27:00Z",
+      "article_url": "https://www.investing.com/analysis/broadcom-q3-earnings-preview-can-results-justify-the-100-rally-since-april-200666404",
+      "tickers": [
+        "AVGO",
+        "GOOG",
+        "GOOGL",
+        "META"
+      ],
+      "amp_url": "https://m.investing.com/analysis/broadcom-q3-earnings-preview-can-results-justify-the-100-rally-since-april-200666404?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Broadcom is expected to report strong Q3 earnings with 34% earnings growth and a 21% revenue increase, driven by AI chip demand and custom accelerator sales for major tech companies.",
+      "keywords": [
+        "AI",
+        "semiconductors",
+        "earnings",
+        "data centers",
+        "custom chips"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AI-related revenue growth (expected 60% YoY increase), leading position in custom AI accelerators, positive analyst ratings, and significant stock rally since April"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as a key customer for Broadcom's custom AI chips, with potential TPU product cycle positives"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as a key customer for Broadcom's custom AI chips, with potential TPU product cycle positives"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Noted as a customer for Broadcom's AI accelerator chips"
+        }
+      ]
+    },
+    {
+      "id": "9835781446ca8558658fc95cdb43497e15b0e72e407144f725fa57b358812539",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Strong Performers This Earnings Season -- and 1 Big Miss",
+      "author": "Geoffrey Seilor",
+      "published_utc": "2025-09-04T15:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/04/3-strong-reports-this-earnings-season-and-1-miss/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "META",
+        "MSFT",
+        "ROKU"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830940/bull-and-bear-on-smartphone-1373109638.jpg",
+      "description": "Several tech companies demonstrated strong performance in Q2, with AI driving growth across platforms. Palantir, Meta, Microsoft showed robust revenue increases, while Roku faced mixed market reactions despite positive underlying metrics.",
+      "keywords": [
+        "AI",
+        "earnings",
+        "technology",
+        "revenue growth",
+        "quarterly results"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "48% revenue growth, 93% commercial sales surge, 145% commercial remaining deal value increase, strong government contracts"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "22% revenue jump, 38% earnings per share increase, 6% user base growth, AI-driven advertising improvements"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "39% Azure revenue growth, 26% intelligent cloud revenue increase, strong software and AI assistant adoption"
+        },
+        {
+          "ticker": "ROKU",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "15% revenue growth, positive EPS, but declining device sales and shrinking platform gross margin"
+        }
+      ]
+    },
+    {
+      "id": "3f3d7b81af4b963d1f654e418a6d67ba99e7977f31ec9aec6fb34c6e2d09a970",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Think Nvidia Stock Is Expensive? These 2 Charts Might Change Your Mind.",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-09-04T11:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/04/think-sofi-stock-is-expensive-these-2-charts-might/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831076/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "Nvidia remains a dominant market leader in the AI sector, trading at a premium valuation with strong growth potential despite high price-to-earnings ratios.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "market cap",
+        "stock valuation",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "High revenue growth, dominant market position in AI, impressive earnings growth, and favorable price/earnings-to-growth (PEG) ratio compared to peers"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Discussed as a comparative benchmark in valuation analysis"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Discussed as a comparative benchmark in valuation analysis"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Discussed as a comparative benchmark in valuation analysis"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Discussed as a comparative benchmark in valuation analysis"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Discussed as a comparative benchmark in valuation analysis"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Discussed as a comparative benchmark in valuation analysis"
+        }
+      ]
+    }
+  ],
+  "status": "OK",
+  "request_id": "c08230ddea0cb14dda9925aa8d9882e7",
+  "count": 10,
+  "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyNS0wOS0wNFQxMSUzQTIxJTNBMDBaJmFzPTNmM2Q3YjgxYWY0Yjk2M2QxZjY1NGU0MThhNmQ2N2JhOTllNzk3N2YzMWVjOWFlYzZmYjM0YzZlMmQwOWE5NzAmb3JkZXI9ZGVzY2VuZGluZyZ0aWNrZXI9TUVUQQ"
+}

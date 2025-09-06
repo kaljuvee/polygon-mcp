@@ -1,0 +1,39 @@
+{
+  "request_id": "9141ce45d39273d010a35d8c50050b49",
+  "results": {
+    "ticker": "META",
+    "name": "Meta Platforms, Inc. Class A Common Stock",
+    "market": "stocks",
+    "locale": "us",
+    "primary_exchange": "XNAS",
+    "type": "CS",
+    "active": true,
+    "currency_name": "usd",
+    "cik": "0001326801",
+    "composite_figi": "BBG000MM2P62",
+    "share_class_figi": "BBG001SQCQC5",
+    "market_cap": 1890260852863.75,
+    "phone_number": "650-543-4800",
+    "address": {
+      "address1": "1 META WAY",
+      "city": "MENLO PARK",
+      "state": "CA",
+      "postal_code": "94025"
+    },
+    "description": "Meta is the largest social media company in the world, boasting close to 4 billion monthly active users worldwide. The firm's \"Family of Apps,\" its core business, consists of Facebook, Instagram, Messenger, and WhatsApp. End users can leverage these applications for a variety of different purposes, from keeping in touch with friends to following celebrities and running digital businesses for free. Meta packages customer data, gleaned from its application ecosystem and sells ads to digital advertisers. While the firm has been investing heavily in its Reality Labs business, it remains a very small part of Meta's overall sales.",
+    "sic_code": "7370",
+    "sic_description": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+    "ticker_root": "META",
+    "homepage_url": "https://about.meta.com",
+    "total_employees": 75945,
+    "list_date": "2012-05-18",
+    "branding": {
+      "logo_url": "https://api.polygon.io/v1/reference/company-branding/YWJvdXQubWV0YS5jb20/images/2025-04-04_logo.svg",
+      "icon_url": "https://api.polygon.io/v1/reference/company-branding/YWJvdXQubWV0YS5jb20/images/2025-04-04_icon.png"
+    },
+    "share_class_shares_outstanding": 2168962480,
+    "weighted_shares_outstanding": 2512141475,
+    "round_lot": 100
+  },
+  "status": "OK"
+}

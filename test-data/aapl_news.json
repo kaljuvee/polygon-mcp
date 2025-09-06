@@ -1,0 +1,248 @@
+{
+  "results": [
+    {
+      "id": "059e15f01d85e4edb51f9e56741e20879e941f492efb2b3a64675b4246390078",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Think It's Too Late to Buy Nvidia? Here's the 1 Reason Why There's Still Time.",
+      "author": "Stefon Walters",
+      "published_utc": "2025-09-06T08:01:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/think-its-too-late-to-buy-ticker-heres-the-1-reaso/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831071/gettyimages-1319077248.jpg",
+      "description": "Despite Nvidia's massive 1,000% stock surge in 2023, analysts believe the company remains a strong investment due to anticipated massive AI infrastructure spending by major tech companies over the next five years.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "GPU",
+        "infrastructure",
+        "technology investment"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Expected to benefit from $3-4 trillion AI infrastructure opportunity, leading GPU provider for data centers with strong long-term growth prospects"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as planning to increase AI infrastructure capital expenditures"
+        }
+      ]
+    },
+    {
+      "id": "adf1437a6d8c4bdfedb3ab64207d39073e8fa233d5193e0c26b4a11060c3e640",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Risk Management Strategies to Protect Your Portfolio During a Market Bubble",
+      "author": "Michael Lebowitz",
+      "published_utc": "2025-09-06T07:25:00Z",
+      "article_url": "https://www.investing.com/analysis/risk-management-strategies-to-protect-your-portfolio-during-a-market-bubble-200666308",
+      "tickers": [
+        "AAPL",
+        "TSLA",
+        "NVDA",
+        "AMZN"
+      ],
+      "amp_url": "https://m.investing.com/analysis/risk-management-strategies-to-protect-your-portfolio-during-a-market-bubble-200666308?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses current market valuations being at historically high levels and provides risk management strategies for investors, emphasizing the importance of active investment approaches and technical analysis during potentially overvalued market conditions.",
+      "keywords": [
+        "market bubble",
+        "valuations",
+        "risk management",
+        "investment strategy",
+        "market trends"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in market movers list without specific commentary in the main article text"
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in market movers list without specific commentary in the main article text"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in market movers list without specific commentary in the main article text"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in market movers list without specific commentary in the main article text"
+        }
+      ]
+    },
+    {
+      "id": "4915f7419e3e387698dd19d0e2871c3ba9f2ca76d7422d80a60debe66f9369c6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Investing $100 in Apple Stock Worth it?",
+      "author": "Neil Patel",
+      "published_utc": "2025-09-06T07:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/is-investing-100-in-apple-stock-worth-it/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830173/pile-of-100-dollar-bills.jpg",
+      "description": "Apple's stock is currently trading at a premium valuation with limited growth potential. Despite its strong brand and ecosystem, the company's revenue growth has been modest, and investors might find better opportunities elsewhere.",
+      "keywords": [
+        "Apple",
+        "stock",
+        "valuation",
+        "investment",
+        "tech",
+        "earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights concerns about Apple's high price-to-earnings ratio, slow revenue growth, limited product upgrade appeal, and potential overvaluation, suggesting investors should seek alternative investment opportunities"
+        }
+      ]
+    },
+    {
+      "id": "0ed2725e7c38c8e3933f791c95f5c28676b76014e0860744e2bd578e7f73ab10",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Does Warren Buffett Know Something Wall Street Doesn't? The Billionaire Is Hoarding Hundreds of Billions in Cash and Only Owns 2 \"Magnificent Seven\" Stocks",
+      "author": "Bram Berkowitz",
+      "published_utc": "2025-09-06T07:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/does-warren-buffett-know-something-wall-street-doe/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831589/buffett19-tmf.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway is holding nearly $340 billion in cash and only owns two Magnificent Seven stocks, suggesting caution about current market valuations and potential economic uncertainties.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "cash reserves",
+        "market valuation",
+        "AI revolution"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Maintaining large cash reserves, preparing for potential market downturn or strategic opportunities"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Maintaining large cash reserves, preparing for potential market downturn or strategic opportunities"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Largest holding but Berkshire has been selling significant portions in recent years"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Small position, indicating cautious interest without strong commitment"
+        }
+      ]
+    },
+    {
+      "id": "16d7d1dd2d0bd8bcab6965216575b2a2c29d92879077b10cc61e1fc6e013d633",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Apple Faces Class-Action Lawsuit Over Reported Use Of Copyrighted Books To Train AI",
+      "author": "Mohd Haider",
+      "published_utc": "2025-09-06T07:01:36Z",
+      "article_url": "https://www.benzinga.com/news/legal/25/09/47536273/apple-faces-class-action-lawsuit-over-reported-use-of-copyrighted-books-to-train-ai",
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "META"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/06/Pune--India---February-19--2024--Apple-i.jpeg?width=1200&height=800&fit=crop",
+      "description": "Apple is facing a class-action lawsuit by authors Grady Hendrix and Jennifer Roberson, alleging unauthorized use of copyrighted books to train its OpenELM AI language models without permission, credit, or compensation.",
+      "keywords": [
+        "AI",
+        "copyright",
+        "lawsuit",
+        "training data",
+        "intellectual property"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Facing legal challenge over alleged unauthorized use of copyrighted materials in AI training, which could result in potential financial and reputational damages"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of broader AI copyright legal landscape, recently settled similar claims with Anthropic"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Facing similar AI copyright challenges, indicating an industry-wide legal trend"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recently won summary judgment in AI training copyright case, with court ruling fair use"
+        }
+      ]
+    }
+  ],
+  "status": "OK",
+  "request_id": "6e381cbd2983fdd1438429b00db16582",
+  "count": 5,
+  "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyNS0wOS0wNlQwNyUzQTAxJTNBMzZaJmFzPTE2ZDdkMWRkMmQwYmQ4YmNhYjY5NjUyMTY1NzViMmEyYzI5ZDkyODc5MDc3YjEwY2M2MWUxZmM2ZTAxM2Q2MzMmbGltaXQ9NSZvcmRlcj1kZXNjZW5kaW5nJnRpY2tlcj1BQVBM"
+}
